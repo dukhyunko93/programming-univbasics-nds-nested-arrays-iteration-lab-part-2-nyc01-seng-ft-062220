@@ -14,7 +14,5 @@ def find_min_in_nested_arrays(src)
     row_index += 1
   end
   outer_results
-=======
   end
->>>>>>> 1478702c47e80d81973de42d49d42ad9332ec8cc
 end
